@@ -11,7 +11,7 @@ Los problemas se formularon a traves de la libreria de optimización [JuMP](http
 - Flujo Maximo
 - Ubicación Optima de Reactores/Capacitores
 - Ubicación Optima de Transformadores Desfasadores (PST)
-- PST + Incorporacion de nuevas lineas
+- PST + Incorporacion de Nuevas Lineas
 
 ### Requisitos:
 
